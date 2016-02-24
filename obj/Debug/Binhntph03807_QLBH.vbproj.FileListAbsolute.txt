@@ -1,0 +1,68 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Binhntph03807_QLBH.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Binhntph03807_QLBH.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Binhntph03807_QLBH.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\System.Web.Providers.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.pdb
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Binhntph03807_QLBH.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Binhntph03807_QLBH.pdb
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Binhntph03807_QLBH.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\EntityFramework.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\System.Web.Providers.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\WebGrease.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\EntityFramework.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.Resources.resources
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.dll
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.xml
+C:\Users\Admin\Documents\SQL Server Management Studio\Projects\Binhntph03807_QLBH\Binhntph03807_QLBH\obj\Debug\Binhntph03807_QLBH.pdb
